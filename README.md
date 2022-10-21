@@ -1,3 +1,6 @@
+#BASED ON https://github.com/tramck/grunt-mysql-dump-import!
+
+
 # Grunt (MYSQL) Database Dumps and Imports
 
 > Dump and import local or remote MYSQL databases using Grunt.
@@ -6,7 +9,7 @@
 Use this plugin *at your own risk*. It is *strongly* recommended that you test the script in a non-critical environment prior to rolling out for production use. Make sure it generates dumps that match your requirements before relying on it as a backup solution.
 
 ## Getting Started
-This plugin requires Grunt `^0.4.1`
+This plugin requires Grunt `^1.0.0`
 
 If you haven't used [Grunt](http://gruntjs.com/) before, be sure to check out the [Getting Started](http://gruntjs.com/getting-started) guide, as it explains how to create a [Gruntfile](http://gruntjs.com/sample-gruntfile) as well as install and use Grunt plugins. Once you're familiar with that process, you may install this plugin with this command:
 
